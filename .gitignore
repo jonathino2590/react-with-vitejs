@@ -4,3 +4,4 @@ dist
 dist-ssr
 *.local
 src/App.jsx
+index.html
